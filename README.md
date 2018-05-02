@@ -1,7 +1,9 @@
 # Coursera Machine Learning 
 <IMG src='https://coursera.s3.amazonaws.com/topics/ml/large-icon.png?auto=format&dpr=1&h=256&w=256&fit=fill&bg=FFF' width=25% height=25%><P>
+  
 This repository contains python implementations of certain exercises from the course by Andrew Ng.<P>
 
+At last I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/certificate/GBMGQC894QPP)
 ![](Certificate.png)
 
 For a number of assignments in the course you are instructed to create complete, stand-alone Octave/MATLAB implementations of certain algorithms (Linear and Logistic Regression for example). The rest of the assignments depend on additional code provided by the course authors. For most of the code in this repository I have instead used existing Python implementations like Scikit-learn.<P>
